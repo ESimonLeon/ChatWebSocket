@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebSocketEjercicio3</string>
+    <string name="usuario">Nombre del usuario</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="no_empty">No puede ir vacio</string>
+    <string name="no_pudiste_unirte_al_chat">No te pudiste unir al chat</string>
+    <string name="conexion_cerrada">Se ha cerrado la conexión</string>
+</resources>
